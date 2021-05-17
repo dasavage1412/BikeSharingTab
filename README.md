@@ -1,4 +1,4 @@
-# CitiBike Anlysis
+# CitiBike Analysis
 The purpose of this project was to use a data set to provide visualizations based on number of bike rides taken.
 
 #Analysis
